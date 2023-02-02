@@ -1,5 +1,27 @@
 # Mobile Robot Bootcamp (Jan 26)
 
+
+## Deliverables
+
+
+1. Link to the folder of a ROS package that contains a publisher and a subscriber 
+
+Publisher: https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/blob/85dedbdc0912b8d07935fe311d65b8570b4a1624/Lab0/hri_publisher.py
+Subscriber: https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/blob/85dedbdc0912b8d07935fe311d65b8570b4a1624/Lab0/hri_subscriber.py
+
+3. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+
+    - How does the device execute or decode the message, how should we send message to robots, or to other running nodes? - still don't get
+    - For ROS packages, do we have to rebuild it after making changes or can we just refresh the terminal? - My best guess, I have to rebuild it
+    - What's the different of using a ROS system and directly code python in Raspberry Pi? - still don't get
+    - How do we push the code from ROS on our local computer to Raspberry pi? - still don't get
+    - Are there plant in packages that we can use, or how do we include new packages/librarys? Is it like with Python just install and use it, or do we have to set it up ourselves? - still don't get
+
+5. Feedback on the bootcamp: What was easy and what was difficult to understand?
+
+    - I think the bootcamp is really good for understanding the basic concepts of ROS2 system, and also to understand the coding logic of it! Kind of like a rundamentary computer system which allows different parts to communicate with each other. My main question right now is still how can that connect to Raspeberry Pi, and how can it communicate with different hardware attached to the Raspberry Pi in general, but I think future labs will be touching on that real soon. In general, the bootcamp is really clear and useful!
+
+##
 For the first lab, we will just focus on getting everyone set up with [ROS 2](https://docs.ros.org/en/humble/index.html) and ready to program and build robots.
 
 In lab on Thursday, we will walk you through the basic concepts for ROS and play with some basic functionalities of it.
@@ -568,9 +590,4 @@ You should be able to see both of your nodes connected through the topic.
 <img src="https://user-images.githubusercontent.com/20778137/214879958-adb5eeb7-3aab-4b43-947d-f445b6cf3ed1.png" width="300">
 
 
-## Deliverables
 
-
-1. Link to the folder of a ROS package that contains a publisher and a subscriber 
-2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
-3. Feedback on the bootcamp: What was easy and what was difficult to understand?
