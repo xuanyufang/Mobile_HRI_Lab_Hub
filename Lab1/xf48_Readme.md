@@ -1,6 +1,6 @@
 # Lab1 Report
 
-**Yuxiang Chen () | Xuanyu Fang () | Yutong Zou (yz2664)**
+**Yuxiang Chen () | Xuanyu Fang (xf48) | Yutong Zou (yz2664)**
 
 
 
