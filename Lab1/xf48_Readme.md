@@ -1,6 +1,6 @@
 # Lab1 Report
 
-**Yuxiang Chen () | Xuanyu Fang (xf48) | Yutong Zou (yz2664)**
+**Yuxiang Chen (yc825) | Xuanyu Fang (xf48) | Yutong Zou (yz2664)**
 
 
 
@@ -21,7 +21,7 @@ C) [Act out the interaction](#part-c-act-out-the-interaction)
 
 ## Part A. Build Your Clonebot
 
-
+Done.
 
 ## Part B. Plan
 
@@ -39,8 +39,6 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-### B.1
-
 *   **Setting**
 
     
@@ -57,101 +55,11 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 
     
 
-### B.2
 
-*   **Setting**
-
-    
-
-*   **Players**
-
-    
-
-*   **Activity**
-
-    
-
-*   **Goals**
-
-    
-
-### B.3
-
-*   **Setting**
-
-    
-
-*   **Players**
-
-    
-
-*   **Activity**
-
-    
-
-*   **Goals**
-
-    
-
-### B.4
-
-*   **Setting**
-
-    
-
-*   **Players**
-
-    
-
-*   **Activity**
-
-    
-
-*   **Goals**
-
-    
-
-### B.5
-
-*   **Setting**
-
-    
-
-*   **Players**
-
-    
-
-*   **Activity**
-
-    
-
-*   **Goals**
-
-    
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
-
-### B.1
-
-
-
-### B.2
-
-
-
-### B.3
-
-
-
-### B.4
-
-
-
-### B.5
-
-
 
 
 
@@ -164,4 +72,3 @@ Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interact
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
-##
