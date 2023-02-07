@@ -66,31 +66,37 @@ We have specifically designed five different robot use cases of the clone bot wi
 ### B.4 Gaming Bot
 
 *   **Players**
-    The players in the GamingBot use case include the bot and player playing FPS (First Person Shooting) Games.
+   
+   The players in the GamingBot use case include the bot and player playing FPS (First Person Shooting) Games.
 
     
 
 *   **Activity**
-    The GamingBot consists of omniwheels that can move in any directions on a flat surface and mouse that serves as control input that allows player to aim during games. The software of the GamingBot will be equipped with computer vision algorithm that detects object to be aimed at. Once the objects to be aimed at are detected, the GamingBot will move the wheels and make sure the mouse cursor aims precisely at the object.  	
+   
+   The GamingBot consists of omniwheels that can move in any directions on a flat surface and mouse that serves as control input that allows player to aim during games. The software of the GamingBot will be equipped with computer vision algorithm that detects object to be aimed at. Once the objects to be aimed at are detected, the GamingBot will move the wheels and make sure the mouse cursor aims precisely at the object.  	
     
 
 *   **Goals**
-    The goal of the GamingBot is to create a machine that can aim at targets in the game precisely with speed. Unlike traditional software plug-in that simulates human moves, the GamingBot will be able to input control signals from physical devices which can bypass the detection of anti-cheating softwares. 
+
+The goal of the GamingBot is to create a machine that can aim at targets in the game precisely with speed. Unlike traditional software plug-in that simulates human moves, the GamingBot will be able to input control signals from physical devices which can bypass the detection of anti-cheating softwares. 
 
 
 
 ### B.5 Printer Bot
 
 *   **Players**
+
     The PrinterBot use case include the bot and the users using the bots. One scenario of using the PrinterBot  is when user wants to write down the AI generated homework answer on the paper. Another scenario of using the PrinterBot is when users want to draw a larger version of their own artwork.
     
 
 *   **Activity**
-    The PrinterBot always holds a pen that can write onto a paper. When the users finds an answer for the question they want to investigate in on any AI generated responses such as ChatGPT, the bot will be reading the response of that questions as input. Then, the PrinterBot will be navigating the pen on a piece of paper to write down the response from the input and simulate human handwriting. Besides this, when the user want to draw a larger version or zoom-in into to the very tiny details of their own drawing, they can input their own drawing to the PrinterBot. The PrinterBot will then automatically draw a larger version of the drawing on a piece of paper.
+   
+   The PrinterBot always holds a pen that can write onto a paper. When the users finds an answer for the question they want to investigate in on any AI generated responses such as ChatGPT, the bot will be reading the response of that questions as input. Then, the PrinterBot will be navigating the pen on a piece of paper to write down the response from the input and simulate human handwriting. Besides this, when the user want to draw a larger version or zoom-in into to the very tiny details of their own drawing, they can input their own drawing to the PrinterBot. The PrinterBot will then automatically draw a larger version of the drawing on a piece of paper.
     
 
 *   **Goals**
-    Writing/drawing is exhausting. It takes time and efforts for human to write/draw things in a refined way. The goal of the PrinterBot is to save time and efforts spend during the process of writing, drawing and copying. The ultimate goal of this bot is to help users focus on the content itself instead of focusing their attention on the exhausted process of writing and drawing. 
+   
+   Writing/drawing is exhausting. It takes time and efforts for human to write/draw things in a refined way. The goal of the PrinterBot is to save time and efforts spend during the process of writing, drawing and copying. The ultimate goal of this bot is to help users focus on the content itself instead of focusing their attention on the exhausted process of writing and drawing. 
 
 
 \*\***Include pictures of your storyboards here**\*\*
