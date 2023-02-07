@@ -9,7 +9,9 @@ Xy Fang (xf48)
 ## Part A. Build Your Clonebot
 
 Done.
- [Photo]
+
+
+![WeChat Image_20230206222109](https://user-images.githubusercontent.com/42874337/217140150-067791e5-0428-4281-8602-054001fc4f23.jpg)
 
 ## Part B. Plan
 
