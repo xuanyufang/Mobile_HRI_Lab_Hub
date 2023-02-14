@@ -1,107 +1,116 @@
 # Then Prototype the Robot
-**List the names and NetID for your partners here.**
 
-This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
+**Xy Fang (xf48)**
 
-
-## Prep
-
-### For this lab, you will need:
-1. Paper
-2. Markers/ Pens
-3. Scissors/Utility Knifes
-4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. **Found objects and materials** -- You will have to costume your CloneBot so that it fits in the intended setting. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative! We have fabric, just ask!
-   
+>   Collaborator: Yuxiang Chen (yc825) & Yutong Zou (yz2664)
 
 
-
-
-### Deliverables for this lab are: 
-
-0. Fill in the questions along the way! 
-1. 1 photo of costumed device
-2. Reflections on the process
-3. Video sketch of 1 prototyped interactions with costumed device
-4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
-
-### The Report 
-This README.md page in your own repository should be edited to include the work you have done (the deliverables mentioned above). Following the format below, you can delete everything but the headers and the sections between the **stars**. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in your README.md for the lab.
-
-## Lab Overview
-For this assignment, you are going to:
-
-A) [Provide feedback to your peers](#part-a-provide-feedback)
-
-B) [Site the interaction](#part-b-site-the-interaction)
-
-C) [Costume the robot](#part-c-costume-the-robot)
-
-D) [Wizard the robot](#part-d-wizard-the-robot) 
-
-E) [Video record the interaction](#part-e-record)
-
-Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
 
 ## Part A. Provide Feedback
-You and your teammates will be assigned lab 1 submissions from one other group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear.
 
-**Summarize feedback your feedback here.**
+*   **AngelBot**
+
+    The video successfully captures the functionality of AngelBot, but has a rather simple interaction which possibilities can be better explored. This idea is a very interesting concept that is similar to a robotic pet that has been around for a while, but more of a desktop version. We generally like it very much!
+
+*   **ButterBot**
+
+    The video interaction of butter bot conveys the message precisely on its function, an interesting reference to Rick & Morty! The voice interaction in the video is also very interesting and vivid. The design of the bot can be a bit more complex in its functionalities other than just passing around the butter.
+
+*   **ChargerBot**
+
+    This is a great idea! Our favorite among all three as well. The video of the interaction with ChargerBot is also very precise in demonstrating its possibilities in managing the cables in desktop scenarios. I would certainly use it if there’s anything like it actually being built eventually.
 
 ## Part B. Site the interaction
 
-Think about where the interaction you are prototyping is going to occur-- on a desk? on a floor? indoors? outdoors?
-
-What other people and objects are in that space?
-
-What activities are going on in that space? What activity is the robot going to be involved in?
-
 \*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
+
+<img src="https://s2.loli.net/2023/02/14/t1VgjDrKBGpniI8.jpg" alt="site.jpeg" style="zoom:15%;" />
 
 \*\***Document the activities being considered.**\*\*
 
+*   The designed scenario of the bot from the last lab we chose was mainly on desktop. We are choosing the ChargerBot to prototype. The ChargerBot is mainly used indoors, on a daily basis with a purpose of better and smarter desktop management. The interactions are all designed to be on a desk, due to that’s where the majority of charging behaviors happened in daily lives of users with their laptop. 
+*   The ChargerBot was meant to be used in an individual setting (or not being used within a group at the same time). The major player is the user and the bot, while in the space the presence of smart devices is also necessary. ChargerBot will be able to provide charging for first of all, mainly laptops, and secondly, smartphones and smart watches at the same time. 
+*   ChargerBot essentially detects user signals on the desktop and comes to the user when charging devices are needed, it comes with extension cords to better assist usage of laptops, and also with wireless charging for smartphones and smartwatches. 
+
 \*\***What issues or opportunties arise from the site and activities?**\*\*
+
+*   A major problem on the desktop of many people who usually perform tasks on a laptop is around wire organization and also how to clean up the desk when charging & extension cords are not needed. An integrated robot that perform the charging task when needed and leaves the desk clean when not is essential to a better laptop usage experience on desktops. 
 
 ## Part C. Costume the robot
 
-Only now should you start worrying about what the device should look like. Develop one costume so that CloneBot can fit into it's setting.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? 
-
-Pick one of the custumes and make it with paper or cardboard or any other material!
-
 \*\***Include sketches of what your robot might look like here.**\*\*
+
+<img src="https://s2.loli.net/2023/02/14/uJ5tfC4aKZDmAbs.jpg" alt="sketch.jpeg" style="zoom:15%;" />
 
 \*\***Include photos of your custumed robot here.**\*\*
 
+*   **Charger Ports**
+
+    The ChargerBot has three types of charger ports at the front (MagSafe, Type-C and Lightening).
+
+    <img src="https://s2.loli.net/2023/02/14/LcBxho4XeJPiENm.jpg" alt="chargerPorts.jpg" style="zoom:10%;" />
+
+*   **Apple Watch Wireless Charger**
+
+    At the right side of the ChargerBot, there is a wireless charger for Apple Watch.
+
+    <img src="https://s2.loli.net/2023/02/14/t9iY7Fgdmyz3Ofj.jpg" alt="watchCharger.jpeg" style="zoom:10%;" />
+
+*   **Extension Ports**
+
+    At the left side of the ChargerBot, there is a extension hub.
+
+    <img src="https://s2.loli.net/2023/02/14/gUFEewZfB2nXHpP.jpg" alt="extensionPorts.jpg" style="zoom:10%;" />
+
+*   **Wireless Phone Charger**
+
+    You can charge your phone using the wireless phone charger at the top of the ChargerBot.
+
+    <img src="https://s2.loli.net/2023/02/14/BE9tNvcLdrMX4ZH.jpg" alt="phoneCharger.jpg" style="zoom:10%;" />
+
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
 
+Through designing the robot, we found that there’s possible room on the robot for many other common needs on the desktop other than just charging the laptop, first of all, charging other commonly used smart devices like smartphones or smartwatches. Another function we thought of, or opportunity we identified is that other than just charging the laptop, people often need to plug in an extension cord to the laptop when using it on a desktop that they are familiar with. We then also designed an extension cord on the robot to perform certain tasks. 
 
 ## Part D. Wizard the Robot
+
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the robot while someone interacts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+https://drive.google.com/file/d/1G4RsHYP8rHg-CWE0K7miAZ9Iw0_imbuh/view?usp=sharing
 
 \*\***Show the follow-up work here.**\*\*
+
+After test it out for the first time, we found out that there’re two major issues that can be improved:
+
+*   The charging cable in front of the robot is too long, which not only will touch the desktop and possibly be broken during transportation, but also have the chance to influence the robot’s capability of moving around. We then changed the position of inner wiring to make sure the length of outside wires is appropriate in moving, and also easy for the user to grab.
+*   We found out that the other side of the extension cord compared to the robot has a little imbalance in weight, which causes the robot to tilt to one side when moving. We then designed the smart watch wireless charging module with more matched weight with the other side of the robot.
+
+https://drive.google.com/file/d/1Fte0TUdTF3Iefb-QtKvI5Vl6zLK50IuT/view?usp=sharing
 
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
 
+https://drive.google.com/file/d/1FrSagMbdA5ejf7SD0sxTalIq2EPKt5MG/view?usp=sharing
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+Special thanks to **<u>Zooey Zhang</u>** who generously provided an Apple Watch, helped with recording the interaction video and brought Yutong her favorite jasmine ice-cream.
 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
+*   **A blooper**
 
-### Again, deliverables for this lab are: 
+    https://drive.google.com/file/d/1G8m0Y8-dhH406q0ixSkcjwKelznaRc9r/view?usp=sharing
 
-0. Fill in the questions along the way! 
-1. photos of costumed robots
-2. Reflections on the process
-3. Video sketch of 1 prototyped interactions with the costumed device
-4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
+*   **Prototyping Process**
+
+    <img src="https://s2.loli.net/2023/02/14/sqP3u5MN4R9BIvd.jpg" alt="prototyping1.jpeg" style="zoom:10%;" />
+
+    <img src="https://s2.loli.net/2023/02/14/1VGSR3fukNWrp6O.jpg" alt="prototyping2.jpeg" style="zoom:10%;" />
+
+    <img src="https://s2.loli.net/2023/02/14/qTGBhvXbW3fgQIL.jpg" alt="prototyping3.jpeg" style="zoom:10%;" />
+
+    <img src="https://s2.loli.net/2023/02/14/LZEHreivVs2dA6N.jpg" alt="prototyping4.jpeg" style="zoom:25%;" />
