@@ -19,6 +19,18 @@
 *   **ChargerBot**
 
     This is a great idea! Our favorite among all three as well. The video of the interaction with ChargerBot is also very precise in demonstrating its possibilities in managing the cables in desktop scenarios. I would certainly use it if there’s anything like it actually being built eventually.
+    
+    I loved all the ideas that the team developed for their robot. They were quite futuristic and creative. I could easily follow the ButterBot video - it was obvious to me what the purpose of the robot was, and I could see this being used in homes for similar usecases. I was not able to follow the AngelBot video clearly - it might have been more helpful to see an actual human in distress - nevertheless once I read the sketches and descriptions, I could easily follow what was happening in the video. My favorite was the ChargerBot! That is a robot I would actively engage with in my daily life.
+    
+One of the aspects I enjoyed most about their storyboards and videos were that they focused on functional ideas for their robot. Each of the robot's goals had utility, and it was nice to see the differences in the ways of our ideation process. I also really enjoyed looking through their storyboards. They did an excellent job at conveying the scene and goal of the robot in an enjoyable, digestible style.
+
+Wow, your robots are clearly thoughtfully designed and well-implemented. The angel bot is cute and has some semblance of emotional intelligence; the butter has comedy and usefulness; the charger bot is super useful and intelligent. Robot-specific feedback, questions, and ideas:
+
+Does the charger bot need to stay there for the entire duration of the charging process? Can it detach itself or move away when the charging is happening? Maybe it could also indicate when the device is done charging, so the human does not keep their device plugged in for too long.
+
+The angel bot is really sweet. It seems that most of the functionality comes from the servo motor on top, which has a pretty limited motion option. I think what you have works, but you may need to think about the material and presentation for whatever you attach to it.
+
+I think the butter bot is so funny. The shaking back and forth is such a clever way to execute the emotion of anguish that a robot can feel about only having the purpose of being a butter bot.
 
 ## Part B. Site the interaction
 
