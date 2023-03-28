@@ -56,6 +56,10 @@ https://drive.google.com/file/d/1ANH2-pSM0RMlrMGedukMd1g7mwTfA58Z/view?usp=shari
 
 
 
+https://user-images.githubusercontent.com/42874337/228289847-d29ac1d2-4dff-41e0-9591-81926f269d55.mp4
+
+
+
 ## 5 Reflection
 
 During last week's lab, we realised that we need some wheels to ensure the hoverboard not flip over. Therefore, we used laser cutting to make wood sticks to hold the auxillary wheels. Also, we used an acrylic board on top of the hoverboard to hold all the hardwares. However, our design for the umbrella is not stable as we imagined. When the hoverboard moves at a high acceleration, the umbrella would slant and fall down because its center of gravity is high. We plan to make a tripot-like stick to hold the umbrella in future labs.
