@@ -13,7 +13,6 @@ Our original prototype design couldn't make the hoverboard moving around smoothl
 https://www.youtube.com/watch?v=AvoLztTPKl8
 
 
-
 ## 1 Umbrella Bot Prototype
 
 *   Assembling auxillary wheels
@@ -40,7 +39,9 @@ https://www.youtube.com/watch?v=AvoLztTPKl8
 
 ## 2 Bot Moving Around
 
-https://drive.google.com/file/d/1ANH2-pSM0RMlrMGedukMd1g7mwTfA58Z/view?usp=sharing
+
+
+https://user-images.githubusercontent.com/42874337/228290322-2957744c-c990-40ba-be2e-ab1341245e27.mp4
 
 
 
