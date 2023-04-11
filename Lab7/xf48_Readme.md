@@ -5,7 +5,6 @@
 >   Collaborator: Yuxiang Chen (yc825) & Yutong Zou (yz2664)
 
 
-
 ## 0 Sketches
 
 *   The umbrella bot interacting with people
@@ -53,6 +52,8 @@ https://drive.google.com/file/d/1yTUcXDshWkWe56WsA1oI588PkMZ1chyf/view?usp=share
 
 
 ## 2 Reflections
+
+Throughout this lab session, we found out that there were still opportunities where we could improve. First of all, we found that the robustness of the robot itself can be improved as the screw loosened as we drove the robot around in an open space. We will need to strengthen the structure of the umbrella bot in the future lab with an improved overall design. While we were staging the interaction, we also found that the sound coming out of the speaker was not loud enough in an open space where noises were presented.  We will need to figure out a way to increase the volume to make sure people can hear the instructions and interact with the robot wuithout any problems. Finally, we also found that the robot moved way too fast while interacting with people. The speed of the robot is so fast that it will easily make people scared of it when the robot comes close as there are no active or passive protective mechanisms to keep the robot from colliding with people. To solve this problem, we will need to tune the configuration of the wheels to make sure the speed won’t scare people interacting with the robot.
 
 *   Fixing the missing nut
 
