@@ -14,7 +14,7 @@ We started this project with the idea that we could make the umbrella move. Near
 *  Cardboard
 We first started with a cardboard prototype just to see whether it would move. The good news is, it does, the bad news is, not for long:
 
-[![BalletBot]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/e757b0fb-856e-4474-87ca-d3cb766eeeb9))](https://www.youtube.com/watch?v=AvoLztTPKl8)
+[![BalletBot]((https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/e757b0fb-856e-4474-87ca-d3cb766eeeb9))](https://www.youtube.com/watch?v=AvoLztTPKl8)
 
 
 * Wood + Acrylic
