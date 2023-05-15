@@ -43,7 +43,9 @@ In order to improve the interaction between the robot and users, we have also co
 
 ## 2. Design and Features
 ### 2.1 Final Design
+
 Our final design includes a clear and steady base and an adjustable umbrella.
+
 ![image](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/794beb95-16e9-4747-b974-4bf226dc5aab)
 ![image](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/c5a0feae-0b6f-4916-bac5-657432d93a20)
 
@@ -66,6 +68,7 @@ Not only we as the bot controllers could see through the cover, but also users c
 
 
 The height of the umbrella is also adjustable, which was installed on a tripod.
+
 ![unnamed](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/1ad9d0a6-1902-4cc8-aec7-650374252c4b)
 
 ### 2.2 Modularized Parts
@@ -97,15 +100,12 @@ Similarly, the power bank could also be taken off anytime to be recharged.
 We first designed some features and use cases the umbrella bot could have:
 
 1. Shelter people over different weather conditions
-
 Since it’s an umbrella bot, its main purpose would be sheltering people during the rainy days. In this scenario, the Umbotella would follow people to their destination while staying close to them so that it could shelter them from the rain. In other scenarios like cloudless sunny days, it can also be used to shade the sunlight from people when they are using electronic devices or looking at screens outside.
 
 2. Guide people to their destinations within a short distance
-
 We have also designed the robot to be able to guide people to navigate to a certain place that is set by the users. It serves as navigation at the same time as sheltering people from weather conditions. Users are also allowed to lead the way and the robot will automatically follow them to wherever they are going for maximum flexibility. 
 
 3. Bring people joy by being a fun robot around the neighborhood
-
 As a robot that serves within a specific community area, it’s also carrying the responsibility to entertain people around the neighborhood and on the street. We designed it will be able to communicate with users, chat when them, and play music for them in a highly autonomous way.
 
 ### 3.2 Designed Interactions
@@ -115,37 +115,34 @@ Based on these possible features, we have designed some interaction scenes that 
 *Interaction Settings*
 
 - Robot speed
-
 The default settings of the speed of the robot are too fast in our interaction settings. We have modified the code to change its speed as well as moving directions.
-[code]
 
 - Voice
-
 Since we need the robot to interact with people, we wanted it to be more human-like and autonomous. We have designed a few sentences for the bot and planned possible scenes that the bot could encounter. In particular, we chose a female voice with a British accent to make the robot sound less intimidating as well as more professional. We generated the voices using Murf.
 
 Based on the intended use cases and voices, we have designed the following possible interactions:
 
 1. Greeting to people when wandering around the neighborhood
-
 The bot would say “Hello there! I'm umbrella bot. I’ll be around whenever you need me”. In this case, the bot intends to tell people that it’s constantly showing up around the neighborhood and to remind people that they could use this umbrella bot on rainy days.
 
 2. Asking people if they need and umbrella
-
 The bot would ask “Hi! Do you need an umbrella?” The answer depends on how people respond.
-
 Positive answer: The bot would randomly give one of the two responses “No problem! Happy to do that!” and “Sure! I’ll follow you!” If people start to walk towards the destination, the bot would follow them. After the ride, the bot would say “Thanks for riding with me! Please give me a five-star on google review.”
-
 Negative answer: The bot would respond “Bye bye! I’ll see you around!” and then move away.
 
 3. Avoiding passers-by when moving
-
 In this case, the bot would just stop and wait for people to pass by.
 
 4. Entertaining people
-
 The bot would just move to people and ask “Do you want some music?” With a positive answer, the bot would start to play music. After the music ends, the bot would say “Thank you so much! Bye bye! I’ll see you around!” and then move away.
 
-[Interaction Storyboards]
+![Page1.png](https://s2.loli.net/2023/03/07/zWwLTEF5m2HYJNQ.png)
+
+![Page2.png](https://s2.loli.net/2023/03/07/PHGU7pKcEwCgYnJ.png)
+
+![Page3.png](https://s2.loli.net/2023/03/07/HDQ9XP5eg1wvNGS.png)
+
+![Page4.png](https://s2.loli.net/2023/03/07/ZRXo3KCDW7MOTkp.png)
 
 ## 4 Interaction Observations
 
@@ -158,8 +155,10 @@ People have laughed at it, curious about it, ignored it, and frightened of it.
 
 ![unnamed (7)](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/c62aab20-93d4-4dda-ac2d-fbdf2d972eea)
 ![unnamed (6)](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/39200c6d-2d79-4c18-aae6-48d350bf4bed)
-![unnamed (5)](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/b4f57fd1-eef8-47f1-9145-6a8b7d50b511)
 ![unnamed (4)](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/b1fd2e56-cdc5-4fe1-9d1b-e6a6b1a0410d)
+
+
+![unnamed (5)](https://github.com/xuanyufang/Mobile_HRI_Lab_Hub/assets/42874337/b4f57fd1-eef8-47f1-9145-6a8b7d50b511)
 
 We have mainly tested out the interaction with three groups of people who’s never seen the robot before. All users are sitting at the cafe area at Cornell Tech campus, and are all passengers who are not Cornell Tech affiliated. Aside from the technical problems we detected during the robot in the field like not large enough umbrella and not high enough base to avoid obstacles, we have also identified a number of problems in our interactions with people. 
 
